@@ -1,0 +1,264 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    background-color:  red;
+    color: white;   
+}
+
+header {
+    background-color: #1f3d7a;
+    width:100%;
+    height: 100px;
+    color: white;
+    padding: 0px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;    
+}
+
+header h1 {
+    margin: 0;
+    padding: 0;
+    padding-top: -12px;    
+}
+
+nav  ul {
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 0%;
+    margin-top: -20px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    text-align: left;
+    font-family: Tahoma;
+    background-color: green;-
+    width: 100%;
+    height: 50px;
+    margin-top: : 0px;
+    padding-top: 0px;  
+}
+
+li {
+    float: left;   
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+aside {
+    height auto;
+    width: auto;
+    background-color: green;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    padding-top: 1%;
+    padding-top: 1%;
+    border-radius: 20px;
+    text-align: center;    
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+h1
+{text-align center;
+    font-family:  Arial;
+    padding-left: 30px;
+    padding-right: 1%;
+    font-size:30px;
+    height: auto;
+    width: auto;
+}
+
+h2
+{
+    font-family: Arial;
+}
+
+ h3 {text-align center;
+    font-family:  Tahoma, serif;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-size:24px;
+}
+
+footer {
+    width: 100%;
+    height: 100px;
+    color: white;
+    padding-bottom: 2%;
+    padding-left: -10%;
+    color: white;      
+}
+
+footer ul {
+    color: white; 
+    padding-bottom: -20px;  
+    padding-left: 10px;  
+    width: auto;
+}
+
+img {
+    padding-left: 30px;
+    padding-right: 30px;
+    max-width: 100%;
+}
+
+ p {font-size:20px; 
+    font-weight:500;
+    font-family: Trebuchet MS;
+    padding-left:30px;
+    padding-right:10px;
+}
+
+textarea {
+    margin-left: 30px;
+}
+
+
+.article-half-left {
+    float: left;
+}
+
+.article-half-right {
+    float: right;    
+}
+
+.padding {
+    padding-left: 2%;
+    margin: auto;
+    padding-top: 2%;
+}
+
+.padding-top {
+    padding-top: 2%;   
+}
+
+.main-form {
+    padding-left: 20%;
+}
+
+.optional-form {
+    padding-left: 40%;
+}
+
+.copyright {
+    float: left;
+}
+
+.back-to-top {
+    float: right;
+    padding-right: 3%;
+    color: white;
+}
+
+.center {
+    text-align: center;
+    align-content: center;
+}
+
+.centerimg {
+    padding-left: 16%;
+}
+
+.map {
+    
+    padding-left: 5%;
+    padding-bottom: 2%;
+    font-size: 20px;
+}
+
+.contact-details {
+    padding-left: 30%;
+    font-size: 10px;
+}
+
+.contact_heading {
+    padding-left: 30%;
+    font-size: 30px;
+}
+
+.enquiry_form {
+    padding-left: 39%;
+    font-size: 20px;
+}
+
+.FB_logo {
+    width: 100%
+    height: auto;
+}
+
+.details_section
+{
+    align-content: center;
+}
+
+.confirmed_details
+{
+    align-content: center;
+    margin-left: 200px;
+}
+
+.reviews_list 
+{
+    margin-left: 200px;
+}
+
+.review_form 
+{
+    padding-left: 100px;
+}
+
+.classes_info
+{
+    padding-left: 100px;
+}
+
+.further-info 
+{
+    padding-left: 20%;
+}
+
+.keeping_safe 
+{
+    padding-left: 20%;
+}
+
+.disability_info
+{
+    margin-left: 5%;
+}
+
+.privacy-details
+{
+    margin-left: 10%;
+}
+
+.FAQ-section
+{
+    margin-left: 10%;
+}
+
+.gallery-section
+{
+    padding-left: 15%;
+}
+
+.terms 
+{
+    padding-left: 20%;
+}
