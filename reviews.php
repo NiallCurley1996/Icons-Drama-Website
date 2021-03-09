@@ -76,7 +76,7 @@ while ($reviews_data = mysqli_fetch_array($reviews))
 <section class="review_form">
     <article>
     <h1>Please leave us a review and let us know what you think!</h1>
-    <form name="review_form" action="" method="post" onsubmit="validateForm">
+    <form name="review_form" action="" method="post" onsubmit="validateForm"> <!-- Add a new review using the form -->
         <p>
 
            <label>Name:</label>
